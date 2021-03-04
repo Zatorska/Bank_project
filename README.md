@@ -2,18 +2,18 @@
 
 In this project I will try to analyse issues described below:
 
->_The bank collects information about customers in order to better manage its risk and increase
+The bank collects information about customers in order to better manage its risk and increase
 profitability of products. There are three main areas of customer relationship management:_
->_* acquisition,
->_* customers' portfolio management, 
->_* retention
-> 
-> _Each area has its own analytical challenges:
->_* **customer retention** is about encouraging customers to stay with the bank if he intends to close his
+* acquisition,
+* customers' portfolio management, 
+* retention
+ 
+_Each area has its own analytical challenges:
+* **customer retention** is about encouraging customers to stay with the bank if he intends to close his
 account or card. Because of that, bank should be able to define the customers who potentially withdraw from the contract, on
 on the basis of their behavior.
->_* in **customer acquisition** the most important thing is to know what is the risk of loan default for a given customer (this is a reason why analysts count the client's 'credit score').
->_* in **portfolio management**, the most important is customer segmentation. It helps to create groups of customers with similar preferences, therefore bank can offer profiled products.
+* in **customer acquisition** the most important thing is to know what is the risk of loan default for a given customer (this is a reason why analysts count the client's 'credit score').
+* in **portfolio management**, the most important is customer segmentation. It helps to create groups of customers with similar preferences, therefore bank can offer profiled products.
 
 I will try to answer following questions:
 

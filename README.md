@@ -1,7 +1,7 @@
 # Bank_project
 
 The bank collects information about customers in order to better manage its risk and increase
-profitability of products. There are three main areas of customer relationship management:_
+profitability of products. There are three main areas of customer relationship management:
 * acquisition,
 * customers' portfolio management, 
 * retention
@@ -20,6 +20,6 @@ on the basis of their behavior.
 * What is the impact of the available variables on the client's credit scoring?
 * What additional data could be used in the analysis?
 
-In this project I will analyse received dataset, **clean data** and I will use few machine learning classification models (such as **Logistic Regression**, **Decision Tree** or **Random Forest**) to find as many dependencies as it's possible.** 
+In this project I will analyse received dataset, **clean data** and I will use few machine learning classification models (such as **Logistic Regression**, **Decision Tree** or **Random Forest**) to find as many dependencies as it's possible. 
 
 _Code written in **Python**._

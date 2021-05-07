@@ -20,6 +20,6 @@ on the basis of their behavior.
 * What is the impact of the available variables on the client's credit scoring?
 * What additional data could be used in the analysis?
 
-In this project I will analyse received dataset, **clean data** and I will use few machine learning classification models (such as **Decision Tree**, **Random Forest**, **KNN**, **Naive Bayes** or **SVM**) to find as many dependencies as it's possible.** 
+In this project I will analyse received dataset, **clean data** and I will use few machine learning classification models (such as **Logistic Regression**, **Decision Tree** or **Random Forest**) to find as many dependencies as it's possible.** 
 
 _Code written in **Python**._

@@ -22,7 +22,7 @@ on the basis of their behavior.
 
 In this project I analyse received dataset, **clean data** and I use few machine learning classification models (such as **Logistic Regression**, **Decision Tree** or **Random Forest**) to find as many dependencies as it's possible. 
 
-Additionally:
+**Additionally:**
 * I create my own function which finds best parameters for Decision Tree model and compare it with GridSearchCV,
 * I check if there is a difference in the effectiveness of models using balanced and unbalanced data.
 
